@@ -6,12 +6,13 @@ import json
 
 df = pd.read_csv('./data/fake_Railway.csv')
 
-broker = 'x068f6a5.ala.us-east-1.emqxsl.com'
+broker = '--ENTER YOU URL--'
 port = 8883
 topic = 'dataset'
 client_id = f'python-mqtt-{random.randint(0, 1000)}'
-username = '--username--'
-password = '--password--'
+username = '--ENTER USERNAME--'
+password = '--ENTER PASSWORD--'
+
 
 
 def connect_mqtt():
