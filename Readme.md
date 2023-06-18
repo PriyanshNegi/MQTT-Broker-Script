@@ -76,5 +76,4 @@ Contributions to the MQTT Broker Script are welcome! If you find any issues or h
 The MQTT Broker Script is open source and released under the [MIT License](LICENSE). You are free to modify, distribute, and use the code for personal and commercial purposes.
 
 ```
-
 Feel free to modify the content as per your requirements and add any additional sections or details you deem necessary.
