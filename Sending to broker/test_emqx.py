@@ -10,8 +10,8 @@ broker = 'x068f6a5.ala.us-east-1.emqxsl.com'
 port = 8883
 topic = 'dataset'
 client_id = f'python-mqtt-{random.randint(0, 1000)}'
-username = 'guest'
-password = 'guest'
+username = '--username--'
+password = '--password--'
 
 
 def connect_mqtt():
