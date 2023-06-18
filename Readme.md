@@ -55,7 +55,7 @@ To install and set up the MQTT Broker Script, follow these steps:
 
 To use the MQTT Broker Script, follow these steps:
 
-1. Configure the MQTT broker connection details in the `config.py` file.
+1. Configure the MQTT broker connection details in the `.env` file.
 2. Customize the script settings and parameters as needed.
 3. Run the script:
 
